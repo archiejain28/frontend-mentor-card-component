@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/archiejain28/frontend-mentor-card-component
+- Live Site URL: https://archiejain28.github.io/frontend-mentor-card-component/
 
 ### Built with
 
@@ -47,7 +47,6 @@ I have to focus more on CSS area.
 
 ## Author
 
-- Website - [Archie Jain](https://www.your-site.com)
 - Frontend Mentor - [@archiejain28](https://www.frontendmentor.io/profile/archiejain28)
 
 ## Acknowledgments
