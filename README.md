@@ -13,8 +13,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,12 +30,12 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- float/inline-block
+- Float/inline-block
 - Mobile-first workflow {media rule for responsive site}
 
 ### What I learned
 
-Yeah I have learned in this challenge about float.
+I have learned in this challenge about float.
 Learn how we can use media rule for responsive websites
 more about <div> tags
 
